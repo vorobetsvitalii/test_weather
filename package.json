@@ -1,0 +1,15 @@
+{
+  "name": "weather-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
